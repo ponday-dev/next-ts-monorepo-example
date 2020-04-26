@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@ponday/components": "^1.0.0",
+    "bootstrap": "^4.4.1",
+    "lerna": "^3.20.2"
+  }
+}
